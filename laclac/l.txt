@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/hqtuan/genio/main/laclac/c.css
+https://raw.githubusercontent.com/hqtuan/genio/main/laclac/p.css
+https://raw.githubusercontent.com/hqtuan/genio/main/laclac/t.css
